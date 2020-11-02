@@ -7,8 +7,8 @@ Phone: 204-899-1122
 
 ### **Education:**
 - University of Manitoba
-  - Bachelor of Computer Science (Honours)  Fall term 2017 – present
-  - Estimated graduating date Winter term 2021
+  - Bachelor of Computer Science (Honours)  ---------- Fall term 2017 – present
+  - Estimated graduating date ---------- Winter term 2021
 
 ### **Skills:**
 - Programming with multiple popular programming language.(Python,C,C++,java,LC3,Ruby).
