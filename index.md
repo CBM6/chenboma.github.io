@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# **Chenbo Ma**
+Address: 3 Cherrywood Rd, Winnipeg, MB, R3Y 0T1, Canada.
 
-You can use the [editor on GitHub](https://github.com/CBM6/chenboma.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Email: chenboma@hotmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CBM6/chenboma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phone: 204-899-1122
+***
+### **Education:**
+- University of Manitoba
+  - Bachelor of Computer Science (Honours) ------ Fall term 2017 – present
+  - Estimated graduating date ------------------- Winter term 2021
+***
+### **Skills:**
+- Programming with multiple popular programming language.(Python,C,C++,java,LC3,Ruby).
+- Graphic programming with processing.
+- Communicating with hardware using LC3
+- Server side and Client side programming with Python
+***
+### **Personalities:**
+- Outgoing
+- Accepting new things quickly
+- Gentle
+- Good at communicating with others
+- Independent
+***
+### **Interests:**
+- Biking
+- Computer games
+- Reading novels
+- Watching movies
