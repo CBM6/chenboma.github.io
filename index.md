@@ -4,7 +4,7 @@ Address: 3 Cherrywood Rd, Winnipeg, MB, R3Y 0T1, Canada.
 Email: chenboma@hotmail.com
 
 Phone: 204-899-1122
-***
+****
 ### Education:
 - University of Manitoba
   - Bachelor of Computer Science (Honours) ------ Fall term 2017 – present
