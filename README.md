@@ -66,10 +66,10 @@
 - [Set up Markdown Editor](https://www.portent.com/blog/copywriting/content-strategy/atom-markdown.htm)
 ***
 ## Authors and Acknowledgments:
-- Andrew Ette.
+- Andrew Etter
 - Choy, Alex
 - Sawka, Sean
-- Huynh, Lucas A.
+- Huynh, Lucas A
 ## FAQs
 1. Why is Markdown better than a word processor?
     >- First, operations of **word processors** are _more_ complicated. It requires people more time to write documentation. I will take **Microsoft Word** as an example because **Microsoft Word** is a famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change the number of "#" before the heading. Secondly, independence. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc.). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, a **Markdown file** can directly turn into an **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
