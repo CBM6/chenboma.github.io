@@ -25,7 +25,7 @@
 **2. Creat a new repository:**
   >1. After login into the account, website will automatically directs to main page.
   >2. Click **New** Button which is a green button on the left panel.
-  >3. Type your repository name. Format is "your_won_name.github.io"
+  >3. Type your repository name. Format is "your_own_name.github.io"
   >4. Click the **Public** check box to select if necessary.
   >5. Click the **Add a README file** check box to select it.
   >6. Click the **Create repository** button which is located at bottom of the page.
