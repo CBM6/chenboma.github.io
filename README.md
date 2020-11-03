@@ -12,7 +12,7 @@
 ***
 ## Prerequisites
   >1. Github account
-  >2. A resume formatted in [Markdown](https://www.markdowntutorial.com/)
+  >2. A resume formatted in [MARKDOWN](https://www.markdowntutorial.com/)
 ***
 ## Instructions:
 **1. Sign in to your account on Github:**
@@ -49,7 +49,7 @@
   >3. Scroll down until you see the **Commit changes** button, click it.
   >4. If you want to edit your resume on the Github page, please edit it in **ph-pages** branch.
   ![upload](/assets/upload.gif "Upload your resume")
-  - You may already notice, all documentation is using **Markdown** language. Why? First of all, you could edit the **MARKDOWN** file on many platforms(Atom, text editor, Xcode,etc.). Secondly, **Markdown** language could directly be translated into HTML. It is convenient when you build a static website. **MARKDOWN** is easy to learn. Writers could spend less time on writing documentation with **MARKDOWN** language. This is what the most writers want.
+  - You may already notice, all documentation is using **MARKDOWN** language. Why? First of all, you could edit the **MARKDOWN** file on many platforms(Atom, text editor, Xcode,etc.). Secondly, **MARKDOWN** language could directly be translated into HTML. It is convenient when you build a static website. **MARKDOWN** is easy to learn. Writers could spend less time on writing documentation with **MARKDOWN** language. This is what the most writers want.
 
 **5. Check your resume online:**
   >1. Wait for some minutes. Servers need time to set up your online resume.
@@ -72,7 +72,7 @@
 - Huynh, Lucas A
 ## FAQs
 1. Why is Markdown better than a word processor?
-    >- First, operations of **word processors** are _more_ complicated. It requires people more time to write documentation. I will take **Microsoft Word** as an example because **Microsoft Word** is a famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **Markdown**, you just change the number of "#" before the heading. Secondly, independence. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc.). **Microsoft Word file** can only be edited on **Microsoft Word file**. Thirdly, a **Markdown file** can directly turn into an **html file** and be hosted online. So, **Markdown** is better than **a word processor**.
+    >- First, operations of **word processors** are _more_ complicated. It requires people more time to write documentation. I will take **Microsoft Word** as an example because **Microsoft Word** is a famous word processor. For example, if you wanted to change a heading's size. In **Microsoft Word**, you need to select that heading and choose a proper font size and font style for it. In **MARKDOWN**, you just change the number of "#" before the heading. Secondly, independence. People could edit **Markdown** file on many platforms(text editor, atom, Xcode, etc.). **Microsoft Word file** can only be edited on **Microsoft Word**. Thirdly, a **MARKDOWN file** can directly turn into an **HTML file** and be hosted online. So, **MARKDOWN** is better than **a word processor**.
 
 2. Why is my resume not showing up?
     >- It is mentioned in **instruction** section. The Server needs several minutes to apply the theme to your resume and host your resume online.
